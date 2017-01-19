@@ -1,0 +1,6 @@
+input/
+output/
+*.ipynb
+*.csv
+*.pdf
+.DS_Store
